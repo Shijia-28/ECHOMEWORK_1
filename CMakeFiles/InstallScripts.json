@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/ECHOMEWORK/EC_homework01/build/Debug/cmake_install.cmake",
-		"D:/ECHOMEWORK/EC_homework01/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
